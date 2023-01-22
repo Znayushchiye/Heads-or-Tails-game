@@ -3,6 +3,7 @@
 #include <time.h>
 #include <cstring>
 using namespace std;
+//This function checks if the coin toss resulted in a Heads or a Tails
 int coinToss()
 {
     int randomNumber;
